@@ -7,7 +7,7 @@
 
 - 👯 **Open to collaborations, work opportunities or internships**
 
-- 💡 I am interested in [all things AI, IoT](all things AI, IoT)
+- 💡 I am interested in all things AI, IoT
 
 
 
